@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"first smart-contract/Demo.sol": "Shop"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"first smart-contract/Demo.sol": {
+			"keccak256": "0xf5d90abe2a85d3e4adc1dc44cc0479488a20fdc10f1a9d2453e3cf97d3c7dbcf",
+			"urls": [
+				"bzz-raw://5ed4ea450a63ef5df38f3ef6d4cd8559045d02d82db3471a9159253d2b44528c",
+				"dweb:/ipfs/QmRz46r3ePG7gd2XgLVcGJu1cRA4ixSPk2GuAV77YkLxWR"
+			]
+		}
+	},
+	"version": 1
+}
